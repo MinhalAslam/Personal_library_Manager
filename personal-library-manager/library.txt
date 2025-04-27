@@ -1,0 +1,4 @@
+[{"title": "Millionaire in One Second", "author": "Subhan Kaladi", "year": 2025, "genre": "Mystery", "read": true}]
+[{"title": "Think and Grow Rich", "author": "Napoleon Hill", "year": 2023, "genre": "Wealth Building", "read": true}]
+[{"title": "Rich Dad Poor Dad", "author": "Robert Kiyosaki", "year": 2022, "genre": "Investing", "read": true}]
+[{"title": "The Millionaire Next Door", "author": "Thomas J. Stanley", "year": 2020, "genre": "wealth Research", "read": true}]
